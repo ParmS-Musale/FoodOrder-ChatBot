@@ -47,7 +47,7 @@ function App() {
 
   return (
     <>
-      <h1 className="heading">Order Food</h1>
+      <h1 className="heading">FoodOrder ChatBot 🍔🍟</h1>
       <Cart cartItems={cartItems} />
       <div className="cards__container">
         {foods.map((food) => {
