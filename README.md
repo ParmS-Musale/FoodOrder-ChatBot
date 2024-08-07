@@ -1,7 +1,7 @@
 # FoodOrder ChatBot
 **[Visit My Live FoodOrder ChatBot Here!](https://foodorders-chatbot.netlify.app)**
 
-This is a simple FoodOrder Chat Bot here you can order Food According To Menu and and at the end it calculate and show the price Of all food you order,,!!
+This is a simple FoodOrder Chat Bot here you can order Food According To Menu and and at the end it calculate and show the price Of all food you order,,!!!!
 ## Features
 
 - Display a menu of food items.
